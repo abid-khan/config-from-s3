@@ -1,5 +1,5 @@
-config-from-s3
-==============
+Load configuration file from S3
+===============================
 
 In this blog I will show you how we can  load basic configuration properties for spring application from S3.
 Traditionally what we , we keep configuration file (application.properties) in class path and configure spring to load it during context loading.
